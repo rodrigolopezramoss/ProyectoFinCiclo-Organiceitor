@@ -8,8 +8,7 @@ El punto estaría en que cada usuario tendría la capacidad de organizar un even
 ## Mockup
 Esta sería una idea aproximada del proyecto final, sujeto a cambios.
 
-![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Login.png)  
-![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Registro.png)
+![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Login.png)     ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Registro.png)
 
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Principal.png)
