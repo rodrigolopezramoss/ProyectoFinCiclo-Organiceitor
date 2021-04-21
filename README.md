@@ -1,6 +1,6 @@
 # ProyectoFinCiclo-Organiceitor
 
-El proyecto consistiría en un organizador de eventos hecho en Android, utilizando firebase para la autentificación y la base de datos.
+El proyecto consistiría en un organizador de eventos hecho en Android, utilizando Firebase para la autentificación y la base de datos.
 
 
 El punto estaría en que cada usuario tendría la capacidad de organizar un evento. Habría una serie de categorías y existiría la posibilidad de llamar a equipos o grupos de gente relacionada con el tipo de evento(Evento musical/concierto -> Grupo musical//Feria tecnológica->universidades,institutos, gente con proyectos//Fiesta de cumpleaños -> un payaso; etc), siendo el núcleo de la aplicación.
