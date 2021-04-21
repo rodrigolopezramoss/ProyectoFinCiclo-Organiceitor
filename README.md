@@ -24,7 +24,7 @@ En la página de los eventos propios, se muestran los eventos que ha creado el m
 
 
 Al darle a añadir un nuevo evento, nos lleva a esta página en la que se piden los datos necesarios para la creación.
-Campos obligatorios serían el nombre, tipo de evento(Grande o pequeño) y una breve descripción; los campos opcionales serían la contratación de personas, si quieres hacer invitaciones para más personas y la publicidad(Carteles, pancartas, anuncios etc).
+Campos obligatorios serían el nombre, tipo de evento(Grande o pequeño), la categoría a la que pertenece y una breve descripción; los campos opcionales serían la contratación de personas, si quieres hacer invitaciones para más personas y la publicidad(Carteles, pancartas, anuncios etc).
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Añadir.png)
 
