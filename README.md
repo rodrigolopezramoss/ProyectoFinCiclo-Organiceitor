@@ -33,8 +33,7 @@ A continuación, una visualización de la pantalla del evento en cuestión (Ejem
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoP.png)   ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoG.png)
 
-Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente, ya sea a través de tus propios contactos, whatsapp, twitter etc(E incluso una confirmación de asistencia); Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas. La idea está.
-
+Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente, ya sea a través de tus propios contactos, whatsapp, twitter etc(E incluso una confirmación de asistencia); Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas.
 
 
 ## Semana 1
