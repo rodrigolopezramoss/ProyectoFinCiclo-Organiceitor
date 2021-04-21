@@ -13,9 +13,14 @@ Aquí las pantallas de inicio de sesión y registro.
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Login.png)     ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Registro.png)
 
 
-La página principal; el usuario puede elegir si crear un evento nuevo o ver los ya existentes.
+La página principal; el usuario puede navegar entre los eventos del resto de usuarios, pudiendo filtrar entre categoría y tipo; o ir a sus propios eventos.
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Principal.png)
+
+
+En la página de los eventos propios, se muestran los eventos que ha creado el mismo usuario y crear más si lo desea.
+
+![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventosPropios.png)
 
 
 Al darle a añadir un nuevo evento, nos lleva a esta página en la que se piden los datos necesarios para la creación.
@@ -25,9 +30,11 @@ Campos obligatorios serían el nombre, tipo de evento(Grande o pequeño) y una b
 
 
 A continuación, una visualización de la pantalla del evento en cuestión (Ejemplo de evento pequeño izq. ; evento grande der.). 
+
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoP.png)   ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoG.png)
 
 Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente, ya sea a través de tus propios contactos, whatsapp, twitter etc(E incluso una confirmación de asistencia); Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas. La idea está.
+
 
 
 ## Semana 1
