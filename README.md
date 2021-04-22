@@ -33,7 +33,11 @@ A continuación, una visualización de la pantalla del evento en cuestión (Ejem
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoP.png)   ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoG.png)
 
-Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente, ya sea a través de tus propios contactos, whatsapp, twitter etc(E incluso una confirmación de asistencia); Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas.
+Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente; Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas.
+
+La contratación y la publicidad estarían en una base de datos que el administrador de la misma actualizaría. La contratación, más concretamente, se dividiría en categorías y a cada evento se le asignaría una serie de posibles contrataciones según dicha condición.
+
+Las invitaciones, por otra parte, serían una posibilidad dentro de lo que es la propia aplicación(No se si lo voy a implementar) pero la idea que veo más factible sería que las invitaciones fueran dentro de la propia aplicación, entre usuarios, pero eso implicaría tener la aplicación, cosa que no es lo mejor. Estoy sopesando si realmente debería meter invitaciones.
 
 
 ## Semana 1
