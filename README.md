@@ -3,7 +3,7 @@
 El proyecto consistiría en un organizador de eventos hecho en Android, utilizando Firebase para la autentificación y la base de datos.
 
 
-El punto estaría en que cada usuario tendría la capacidad de organizar un evento. Habría una serie de categorías y existiría la posibilidad de llamar a equipos o grupos de gente relacionada con el tipo de evento(Evento musical/concierto -> Grupo musical//Feria tecnológica->universidades,institutos, gente con proyectos//Fiesta de cumpleaños -> un payaso; etc), siendo el núcleo de la aplicación.
+El punto estaría en que cada usuario tendría la capacidad de organizar un evento(Crear y gestionar), a parte de ver los eventos del resto de usuarios, si es que estos han creado alguno. Habría una serie de categorías y existiría la posibilidad de llamar a equipos o grupos de gente relacionada con el tipo de evento(Evento musical/concierto -> Grupo musical//Feria tecnológica->universidades,institutos, gente con proyectos//Fiesta de cumpleaños -> un payaso; etc), siendo el núcleo de la aplicación.
 
 ## Mockup
 Esta sería una idea aproximada del proyecto final, sujeto a cambios.
@@ -33,7 +33,7 @@ A continuación, una visualización de la pantalla del evento en cuestión (Ejem
 
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoP.png)   ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/EventoG.png)
 
-Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones te permitiría invitar a gente; Y la publicidad te pondría en contacto con publicistas y ese tipo de cosas.
+Idealmente, los botones inferiores te llevarían a una serie de contactos, en caso de la contratación; Las invitaciones(no definitivo) te permitiría invitar a gente; Y la publicidad te pondría en contacto con anunciantes o agencias publicitarias.
 
 La contratación y la publicidad estarían en una base de datos que el administrador de la misma actualizaría. La contratación, más concretamente, se dividiría en categorías y a cada evento se le asignaría una serie de posibles contrataciones según dicha condición.
 
