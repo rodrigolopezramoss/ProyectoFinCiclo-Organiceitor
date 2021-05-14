@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536122341008",
+    "project_id": "organiceitor",
+    "storage_bucket": "organiceitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536122341008:android:2fd4253450bb56fec98a15",
+        "android_client_info": {
+          "package_name": "com.rlr.proyectoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536122341008-s07q67du294mi5vtn66922epjndqn2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCjfGNtqLKiy107A-2DFGgmZ-L_W0BDgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536122341008-s07q67du294mi5vtn66922epjndqn2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

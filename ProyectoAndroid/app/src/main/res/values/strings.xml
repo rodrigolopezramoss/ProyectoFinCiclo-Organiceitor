@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="lab_correo">Correo electrónico</string>
+    <string name="lab_contraseña">Contraseña</string>
+    <string name="lab_inicio">Iniciar sesión</string>
+    <string name="lab_registro">Registrarse</string>
+    <string name="lab_nombre">Nombre</string>
+</resources>
