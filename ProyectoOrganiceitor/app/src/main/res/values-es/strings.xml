@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoOrganiceitor</string>
+    <string name="lab_correo">Correo electrónico</string>
+    <string name="lab_contraseña">Contraseña</string>
+    <string name="lab_inicio">Iniciar sesión</string>
+    <string name="lab_registro">Registrarse</string>
+    <string name="lab_nombre">Nombre de usuario</string>
+    <string name="lab_btnAdd">Crear evento</string>
+    <string name="lab_tipo">Tipo de evento</string>
+    <string name="lab_nomeve">Nombre del evento</string>
+    <string name="lab_cate">Categoría del evento</string>
+    <string name="lab_date">Fecha del evento</string>
+    <string name="lab_descripcion">Descripción del evento</string>
+    <string name="lab_contra">Contratación</string>
+    <string name="lab_publi">Publicidad</string>
+    <string name="lab_btnCrear">Crear</string>
+    <string name="lab_selectDate">Seleccionar</string>
+    <string name="lab_errorRe">Todos los campos obligatorios</string>
+    <string name="lab_filtro">Filtrar por:</string>
+    <string name="lab_btnContra">Contratación</string>
+    <string name="lab_btnPubli">Publicidad</string>
+    <string name="lab_errorFe">Seleccione una fecha</string>
+    <string name="lab_opcional">Opcional</string>
+    <string name="lab_btnBorrar">Eliminar evento</string>
+    <string name="lab_preBorrar">¿Seguro que quieres borrar este evento?</string>
+    <string name="lab_preCerrar">¿Está seguro de que quiere cerrar sesión?</string>
+    <string name="lab_negacion">No</string>
+    <string name="lab_alta">Darse de alta</string>
+    <string name="lab_afirmacion">Si</string>
+    <string name="lab_volver">Volver</string>
+    <string name="lab_btnImg">Seleccionar imagen</string>
+    <string name="lab_llamar">"Llamando al "</string>
+    <string name="lab_errorNo">Usuario y contraseña obligatorios</string>
+    <string name="lab_errorInco">Usuario o contraseña incorrectos</string>
+    <string name="lab_reg">Registro</string>
+    <string name="lab_cerrar">Cerrar sesión</string>
+    <string name="lab_borrar">Borrar evento</string>
+    <string name="lab_hecho">Hecho por</string>
+    <string name="lab_sub">Subiendo...</string>
+    <string name="lab_org">Organizado por </string>
+</resources>
