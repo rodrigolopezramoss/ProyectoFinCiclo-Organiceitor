@@ -80,9 +80,7 @@ Aquí las pantallas de inicio de sesión y registro.
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="300" alt="Hey"/>
 </p>
 
-
-![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Login.png)     ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Registro.png)
-
+Tras registrarte e iniciar sesión 
 
 ## Bibliografía
 
