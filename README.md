@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/titulo.png" height="100" width="550" alt="Hey"/>
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/titulo.png" alt="Hey"/>
 </p>
 
 
