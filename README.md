@@ -76,8 +76,8 @@ Resolución de algunos problemas de la aplicación relacionados con la traducci�
 Aquí las pantallas de inicio de sesión y registro.
 
 <p align="center">
-  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaLogin.png" alt="Hey"/>
-  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" alt="Hey"/>
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaLogin.png" width="500" alt="Hey"/>
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="500" alt="Hey"/>
 </p>
 
 
