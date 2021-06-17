@@ -116,6 +116,8 @@ En la pantalla que nos sale, se listarán una serie de contactos con los que pod
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaContra.png" width="300" alt="Hey"/>
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaPubli.png" width="300" alt="Hey"/>
 </p>
+(Izq. contratación, Der. publicidad)
+
 
 
 ## Bibliografía
