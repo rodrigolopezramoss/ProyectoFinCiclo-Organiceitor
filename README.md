@@ -44,9 +44,7 @@ Nada
 
 * Semana 6
 
-Creación del inicio de sesión y registro de usuarios
-
-Serios problemas al trabajar con la base de datos
+Creación del inicio de sesión y registro de usuarios<br>Serios problemas al trabajar con la base de datos
 
 * Semana 7
 
@@ -64,7 +62,7 @@ Página de eventos parcialmente completada
 
 * Semana 10
 
-Página de eventos completa, adición de las páginas de contratación y publicidad; y traducción completada
+Página de eventos completa, adición de las páginas de contratación y publicidad; traducción completa
 
 * Semana 11
 
