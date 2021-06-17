@@ -83,7 +83,6 @@ Aquí las pantallas de inicio de sesión y registro.
 Tras registrarte e iniciar sesión, serás llevado a la página principal, en ella, podrás ver los eventos de otros usuarios <br>y filtrar por ver todos, tus eventos y por tipo.
 <p align="start">
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventos.png" width="300" alt="Hey"/>
-  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="300" alt="Hey"/>
 </p>
 
 También podrás crear tus propios eventos dándole a crear evento.<br>
