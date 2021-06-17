@@ -88,11 +88,16 @@ Tras registrarte e iniciar sesión, serás llevado a la página principal, en el
 
 También podrás crear tus propios eventos dándole a crear evento.<br>
 Tendrás que rellenar los datos y elegir si quieres contratación y/o publicidad. Esto te permitirá tener acceso a una página <br>con múltiples contactos relacionados con la categoría de tu evento.
+<p align="start">
 <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaCrearEvento.png" width="300" alt="Hey"/>
+</p>
 
-Al crear el evento, volverás a la pantalla principal y verás com a aparecido tu evento con el nombre que le hallas puesto, la fecha y tu nombre de usuario.<br>
+
+Al crear el evento, volverás a la pantalla principal y verás como a aparecido tu evento con el nombre que le hallas puesto, la fecha y tu nombre de usuario.<br>
 Si pulsas sobre él, te aparecera la siguiente pantalla:
+<p align="start">
 <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventoCreado.png" width="300" alt="Hey"/>
+</p>
 Como puedes ver, aparece la página de evento con la mayoría de datos que rellenaste anteriormente y tres botones: <br>de contratación y publicidad, si los marcaste al crearlo; y la de eliminar evento.
 
 
