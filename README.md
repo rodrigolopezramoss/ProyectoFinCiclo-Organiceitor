@@ -127,4 +127,5 @@ APK https://www.youtube.com/watch?v=8B5zxzNg71U <br>
 Permisos https://www.youtube.com/watch?v=k-aMy3t8Lng <br>
 Subir imagen a Firebase Storage https://www.youtube.com/watch?v=pNleQQhVfd0 <br>
 Usar imagen de Firebase Storage https://www.youtube.com/watch?v=rYfNRh0HjeI <br>
-Itemclick en RecyclerView https://www.youtube.com/watch?v=yTIeUlvuMBk
+Itemclick en RecyclerView https://www.youtube.com/watch?v=yTIeUlvuMBk<br>
+DatePicker https://www.youtube.com/watch?v=E1LSY3g-CtY
