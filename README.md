@@ -40,4 +40,11 @@ La contratación y la publicidad estarían en una base de datos que el administr
 Las invitaciones, por otra parte, serían una posibilidad dentro de lo que es la propia aplicación(No se si lo voy a implementar) pero la idea que veo más factible sería que las invitaciones fueran dentro de la propia aplicación, entre usuarios, pero eso implicaría tener la aplicación, cosa que no es lo mejor. Estoy sopesando si realmente debería meter invitaciones.
 
 
+
+## Landing Page
+
+Ir a la [landing page](https://rodrigolopezramoss.github.io/landingPage/)
+
+
+
 ## Semana 1
