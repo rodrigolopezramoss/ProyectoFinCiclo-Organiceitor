@@ -98,11 +98,16 @@ Si pulsas sobre él, te aparecera la siguiente pantalla:
 <p align="start">
 <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventoCreado.png" width="300" alt="Hey"/>
 </p>
+
 Como puedes ver, aparece la página de evento con la mayoría de datos que rellenaste anteriormente y tres botones: <br>de contratación y publicidad, si los marcaste al crearlo; y la de eliminar evento.
 
 
-Otra cosa de la que nos damos cuenta es que hay un gran espacio en la cabecera del evento
 
+Otra cosa de la que nos damos cuenta es que hay un gran espacio en la cabecera del evento, ahí va la imagen.<br>
+Por defecto no tiene ninguna, hay que añadirla, para ello pulsamos sobre el espacio en blanco y nos saltará una ventana emergente que nos pedirá acceso a la galería de imagenes de nuestro dispositivo.<br>Aceptamos y elegimos la imagen que creamos más conveniente.
+<p align="start">
+<img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventoImagen.png" width="300" alt="Hey"/>
+</p>
 
 
 
