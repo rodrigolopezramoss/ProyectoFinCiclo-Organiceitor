@@ -74,21 +74,31 @@ Resolución de algunos problemas de la aplicación relacionados con la traducci�
 ## Tutorial
 
 Aquí las pantallas de inicio de sesión y registro.
-
 <p align="start">
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaLogin.png" width="300" alt="Hey"/>
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="300" alt="Hey"/>
 </p>
+
 
 Tras registrarte e iniciar sesión, serás llevado a la página principal, en ella, podrás ver los eventos de otros usuarios <br>y filtrar por ver todos, tus eventos y por tipo.
 <p align="start">
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventos.png" width="300" alt="Hey"/>
 </p>
 
+
 También podrás crear tus propios eventos dándole a crear evento.<br>
 Tendrás que rellenar los datos y elegir si quieres contratación y/o publicidad. Esto te permitirá tener acceso a una página <br>con múltiples contactos relacionados con la categoría de tu evento.
-
 <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaCrearEvento.png" width="300" alt="Hey"/>
+
+Al crear el evento, volverás a la pantalla principal y verás com a aparecido tu evento con el nombre que le hallas puesto, la fecha y tu nombre de usuario.<br>
+Si pulsas sobre él, te aparecera la siguiente pantalla:
+<img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventoCreado.png" width="300" alt="Hey"/>
+Como puedes ver, aparece la página de evento con la mayoría de datos que rellenaste anteriormente y tres botones: <br>de contratación y publicidad, si los marcaste al crearlo; y la de eliminar evento.
+
+
+Otra cosa de la que nos damos cuenta es que hay un gran espacio en la cabecera del evento
+
+
 
 
 ## Bibliografía
