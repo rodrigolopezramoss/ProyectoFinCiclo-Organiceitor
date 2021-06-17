@@ -1,4 +1,4 @@
-![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/Login.png)  
+![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/titulo.png)  
 
 # ProyectoFinCiclo-Organiceitor
 
