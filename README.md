@@ -65,3 +65,8 @@ Página de eventos completa, adición de las páginas de contratación y publici
 * Semana 11
 
 Resolución de algunos problemas de la aplicación relacionados con la traducción<br>Aplicación completada
+
+
+
+##Tutorial
+
