@@ -10,6 +10,9 @@ Organiceitor es una aplicación que te permite ver los eventos que organizan tod
 
 Como usuario, a parte de entrar en los eventos del resto de personas, puedes crear los tuyos propios, dándole un nombre, tipo, categoría, fecha y descripción; en la descripción es necesario explicar en que consiste el evento y donde sucede. Además de esto, tienes la opción de colocarle una imagen a la página de tu evento, y acceder a las páginas de contratación y publicidad, cuyos contactos varían según la categoría de tu evento; como última opción puedes decidir borrar el evento.
 
+
+## Vídeo
+Enlace al [vídeo explicativo](https://youtu.be/HTveO6Sjwug)
 ## Landing Page
 
 Ir a la [landing page](https://rodrigolopezramoss.github.io/landingPage/)
