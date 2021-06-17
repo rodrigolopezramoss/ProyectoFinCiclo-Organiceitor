@@ -21,4 +21,35 @@ Ir al [mockup](https://github.com/rodrigolopezramoss/ProyectoFinCurso-Mockup)
 
 ## Historial de trabajo
 
+
 * Semana 1
+
+
+* Semana 2
+
+
+* Semana 3
+
+
+* Semana 4
+
+
+* Semana 5
+
+
+* Semana 6
+
+
+* Semana 7
+
+
+* Semana 8
+
+
+* Semana 9
+
+
+* Semana 10
+
+
+* Semana 11
