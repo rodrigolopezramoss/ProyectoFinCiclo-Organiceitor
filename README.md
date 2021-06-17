@@ -1,6 +1,5 @@
 ![alt text](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/titulo.png)  
 
-# ProyectoFinCiclo-Organiceitor
 
 El proyecto consistiría en un organizador de eventos hecho en Android, utilizando Firebase para la autentificación y la base de datos.
 
