@@ -75,12 +75,22 @@ Resolución de algunos problemas de la aplicación relacionados con la traducci�
 
 Aquí las pantallas de inicio de sesión y registro.
 
-<p align="center">
+<p align="start">
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaLogin.png" width="300" alt="Hey"/>
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="300" alt="Hey"/>
 </p>
 
-Tras registrarte e iniciar sesión 
+Tras registrarte e iniciar sesión, serás llevado a la página principal, en ella, podrás ver los eventos de otros usuarios <br>y filtrar por ver todos, tus eventos y por tipo.
+<p align="start">
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventos.png" width="300" alt="Hey"/>
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaRegister.png" width="300" alt="Hey"/>
+</p>
+
+También podrás crear tus propios eventos dándole a crear evento.<br>
+Tendrás que rellenar los datos y elegir si quieres contratación y/o publicidad. Esto te permitirá tener acceso a una página <br>con múltiples contactos relacionados con la categoría de tu evento.
+
+<img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaCrearEvento.png" width="300" alt="Hey"/>
+
 
 ## Bibliografía
 
