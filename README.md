@@ -48,9 +48,7 @@ Creación del inicio de sesión y registro de usuarios<br>Serios problemas al tr
 
 * Semana 7
 
-Problema solucionado
-
-Inicio de sesión y registro completamente funcionales
+Problema solucionado<br>Inicio de sesión y registro completamente funcionales
 
 * Semana 8
 
@@ -66,6 +64,4 @@ Página de eventos completa, adición de las páginas de contratación y publici
 
 * Semana 11
 
-Resolución de algunos problemas de la aplicación relacionados con la traducción
-
-Aplicación completada
+Resolución de algunos problemas de la aplicación relacionados con la traducción<br>Aplicación completada
