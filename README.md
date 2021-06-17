@@ -104,11 +104,18 @@ Como puedes ver, aparece la página de evento con la mayoría de datos que relle
 
 
 Otra cosa de la que nos damos cuenta es que hay un gran espacio en la cabecera del evento, ahí va la imagen.<br>
-Por defecto no tiene ninguna, hay que añadirla, para ello pulsamos sobre el espacio en blanco y nos saltará una ventana emergente que nos pedirá acceso a la galería de imagenes de nuestro dispositivo.<br>Aceptamos y elegimos la imagen que creamos más conveniente.
+Por defecto no tiene ninguna, hay que añadirla; para ello pulsamos sobre el espacio en blanco y nos saltará una ventana emergente que nos pedirá acceso a la galería de imágenes de nuestro dispositivo.<br>Aceptamos y elegimos la imagen que creamos más conveniente:
 <p align="start">
 <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaEventoImagen.png" width="300" alt="Hey"/>
 </p>
 
+
+Lo último que faltaría ver son los botones de contratación y publicidad; al pursar sobre alguno de ellos, nos pedirá permisos para gestionar llamadas.<br>
+En la pantalla que nos sale, se listarán una serie de contactos con los que podremos contactar(valga la redundancia) y nos ayudarán con nuestro evento, ya sea por contratación(payasos para una fiesta, comentalistas para un torneo, etc) o por publicidad(anuncios, papeletas, pósteres, patrocinio, etc).
+<p align="start">
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaContra.png" width="300" alt="Hey"/>
+  <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaPubli.png" width="300" alt="Hey"/>
+</p>
 
 
 ## Bibliografía
