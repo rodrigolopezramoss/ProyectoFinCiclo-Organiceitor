@@ -111,7 +111,8 @@ Por defecto no tiene ninguna, hay que añadirla; para ello pulsamos sobre el esp
 
 
 Lo último que faltaría ver son los botones de contratación y publicidad; al pursar sobre alguno de ellos, nos pedirá permisos para gestionar llamadas.<br>
-En la pantalla que nos sale, se listarán una serie de contactos con los que podremos contactar(valga la redundancia) y nos ayudarán con nuestro evento, ya sea por contratación(payasos para una fiesta, comentalistas para un torneo, etc) o por publicidad(anuncios, papeletas, pósteres, patrocinio, etc).
+En la pantalla que nos sale, se listarán una serie de contactos con los que podremos contactar(valga la redundancia) y al pulsar sobre el icono del teléfono, llamaremos a dicho contacto.<br>
+Nos ayudará con nuestro evento, ya sea por contratación(payasos para una fiesta, comentalistas para un torneo, etc) o por publicidad(anuncios, papeletas, pósteres, patrocinio, etc).
 <p align="start">
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaContra.png" width="300" alt="Hey"/>
   <img src="https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor/blob/main/Capturas/CapturaPubli.png" width="300" alt="Hey"/>
