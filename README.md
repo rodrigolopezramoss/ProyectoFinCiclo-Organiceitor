@@ -23,38 +23,51 @@ Ir al [mockup](https://github.com/rodrigolopezramoss/ProyectoFinCurso-Mockup)
 
 
 * Semana 1
+
 Nada
 
 * Semana 2
+ 
 Nada
 
 * Semana 3
+
 Nada
 
 * Semana 4
+
 Nada
 
 * Semana 5
+
 Nada
 
 * Semana 6
+
 Creación del inicio de sesión y registro de usuarios
+
 Serios problemas al trabajar con la base de datos
 
 * Semana 7
+
 Problema solucionado
+
 Inicio de sesión y registro completamente funcionales
 
 * Semana 8
+
 Página principal de la aplicación hecha
 
 * Semana 9
+
 Página de eventos parcialmente completada
 
 * Semana 10
+
 Página de eventos completa, adición de las páginas de contratación y publicidad; y traducción completada
 
 * Semana 11
+
 Resolución de algunos problemas de la aplicación relacionados con la traducción
 
 Aplicación completada
