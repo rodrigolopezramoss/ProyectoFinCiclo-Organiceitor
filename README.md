@@ -3,7 +3,7 @@
 </p>
 
 
-El proyecto consistiría en un organizador de eventos hecho en Android, utilizando Firebase para la autentificación y la base de datos.
+El proyecto consiste en un organizador de eventos hecho en Android, utilizando Firebase para la autentificación y la base de datos.
 
 
 Organiceitor es una aplicación que te permite ver los eventos que organizan todos sus usuarios; los eventos se dividen por tipo(Grande, mediano y pequeño) y por categoría(Benéfico, concierto, deportivo, etc).
