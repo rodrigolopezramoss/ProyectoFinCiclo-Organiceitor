@@ -124,3 +124,6 @@ Nos ayudará con nuestro evento, ya sea por contratación(payasos para una fiest
 ## Bibliografía
 
 APK https://www.youtube.com/watch?v=8B5zxzNg71U
+Permisos https://www.youtube.com/watch?v=k-aMy3t8Lng
+Subir imagen a Firebase Storage https://www.youtube.com/watch?v=pNleQQhVfd0
+Usar imagen de Firebase Storage https://www.youtube.com/watch?v=rYfNRh0HjeI
